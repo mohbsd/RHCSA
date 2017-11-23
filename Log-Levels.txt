@@ -1,0 +1,17 @@
+Logging Levels:
+
+debug: Debug information from programs
+
+info: Simple informational message - no intervention is required
+
+notice: Condition that may require attention
+
+warn: Warning
+
+err: Error
+
+crit: Critical condition
+
+alert: Condition that needs immediate intervention
+
+emerg: Emergency condition

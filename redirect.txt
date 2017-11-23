@@ -1,0 +1,10 @@
+STDIN  - standard input
+STDOUT - standard output
+STDERR - standard error
+
+>      - redirect STDOUT to file
+>>     - redirect STDOUT and append to file
+2>     - redirect STDERR to file
+2>&1   - redirect STERR to STDOUT
+<      - redirect STDIN to command
+|      - pipe the STDOUT to next command
